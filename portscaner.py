@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+# portscaner    - check port state open or close.
+
 import socket
 from IPy import IP
 from termcolor import colored
