@@ -48,4 +48,3 @@ if __name__ == "__main__":
             scan(ip_add.strip(' '))
     else:
         scan(targets)
-
